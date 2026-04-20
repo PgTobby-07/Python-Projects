@@ -1,3 +1,6 @@
+# CLOCK FORMAT: hours:Minutes:Seconds set alarms based on this
+# for example   09 : 55 : 05  
+
 # Importing Libraries
 from tkinter import *
 import datetime
