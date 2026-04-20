@@ -1,5 +1,5 @@
 #running format:
-
+# cd HashingPassword
 # python hashingpassword.py <password> -t <hash-type>
 
 import argparse
