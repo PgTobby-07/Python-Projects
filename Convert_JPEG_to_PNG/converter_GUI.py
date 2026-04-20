@@ -1,3 +1,5 @@
+#select your PNG file from the "Select PNG" button
+#Then select "Convert to JPEG" type the name of the JPEG file you want to create and clcik "Save"
 import tkinter as tk
 from tkinter import filedialog
 from PIL import Image
